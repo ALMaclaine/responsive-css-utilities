@@ -1,0 +1,36 @@
+{
+  "name": "responsive-css-utilities",
+  "version": "0.1.0",
+  "description": "responsive css utilities",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx gulp css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALMaclaine/responsive-css-utilities.git"
+  },
+  "keywords": [
+    "responsive",
+    "css",
+    "utilities"
+  ],
+  "author": "Alessandro Maclaine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ALMaclaine/responsive-css-utilities/issues"
+  },
+  "homepage": "https://github.com/ALMaclaine/responsive-css-utilities#readme",
+  "devDependencies": {
+    "autoprefix": "^1.0.1",
+    "autoprefixer": "^9.8.6",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.0",
+    "gulp-prettier": "^3.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "postcss": "^8.2.4",
+    "postcss-for": "^2.1.1",
+    "precss": "^4.0.0"
+  }
+}
