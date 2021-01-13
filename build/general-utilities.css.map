@@ -1,0 +1,1 @@
+{"version":3,"sources":["general-utilities.pcss"],"names":[],"mappings":"AAAA;IACI,yBAAiB;OAAjB,sBAAiB;QAAjB,qBAAiB;YAAjB,iBAAiB;AACrB","file":"general-utilities.css","sourcesContent":[".us-none {\n    user-select: none;\n}\n"]}

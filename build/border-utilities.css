@@ -1,0 +1,45 @@
+/*
+/* Border Radius Utilities
+*/
+
+/* Percent Utilities */
+
+.br-p5 {
+  border-radius: 5%;
+}
+
+.br-p10 {
+  border-radius: 10%;
+}
+
+.br-p25 {
+  border-radius: 25%;
+}
+
+.br-p50 {
+  border-radius: 50%;
+}
+
+/* pixel Utilities */
+
+.br-px2 {
+  border-radius: 2px;
+}
+
+.br-px4 {
+  border-radius: 4px;
+}
+
+.br-px8 {
+  border-radius: 8px;
+}
+
+.br-px16 {
+  border-radius: 16px;
+}
+
+.br-px32 {
+  border-radius: 32px;
+}
+
+/*# sourceMappingURL=border-utilities.css.map */

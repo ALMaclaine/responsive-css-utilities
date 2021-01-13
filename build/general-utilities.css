@@ -1,0 +1,8 @@
+.us-none {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/*# sourceMappingURL=general-utilities.css.map */

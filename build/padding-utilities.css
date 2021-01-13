@@ -1,0 +1,311 @@
+/* Padding */
+
+.p-l0 {
+  padding: var(--modular-size-l0);
+}
+
+.p-l1 {
+  padding: var(--modular-size-l1);
+}
+
+.p-l2 {
+  padding: var(--modular-size-l2);
+}
+
+.p-l3 {
+  padding: var(--modular-size-l3);
+}
+
+.p-l4 {
+  padding: var(--modular-size-l4);
+}
+
+.p-l5 {
+  padding: var(--modular-size-l5);
+}
+
+.p-l6 {
+  padding: var(--modular-size-l6);
+}
+
+.p-l7 {
+  padding: var(--modular-size-l7);
+}
+
+.p-l8 {
+  padding: var(--modular-size-l8);
+}
+
+.p-l9 {
+  padding: var(--modular-size-l9);
+}
+
+.p-l10 {
+  padding: var(--modular-size-l10);
+}
+
+.p-n1 {
+  padding: var(--modular-size-n1);
+}
+
+.p-n2 {
+  padding: var(--modular-size-n2);
+}
+
+.p-n3 {
+  padding: var(--modular-size-n3);
+}
+
+.p-n4 {
+  padding: var(--modular-size-n4);
+}
+
+/* Padding Top */
+
+.pt-l0 {
+  padding-top: var(--modular-size-l0);
+}
+
+.pt-l1 {
+  padding-top: var(--modular-size-l1);
+}
+
+.pt-l2 {
+  padding-top: var(--modular-size-l2);
+}
+
+.pt-l3 {
+  padding-top: var(--modular-size-l3);
+}
+
+.pt-l4 {
+  padding-top: var(--modular-size-l4);
+}
+
+.pt-l5 {
+  padding-top: var(--modular-size-l5);
+}
+
+.pt-l6 {
+  padding-top: var(--modular-size-l6);
+}
+
+.pt-l7 {
+  padding-top: var(--modular-size-l7);
+}
+
+.pt-l8 {
+  padding-top: var(--modular-size-l8);
+}
+
+.pt-l9 {
+  padding-top: var(--modular-size-l9);
+}
+
+.pt-l10 {
+  padding-top: var(--modular-size-l10);
+}
+
+.pt-n1 {
+  padding-top: var(--modular-size-n1);
+}
+
+.pt-n2 {
+  padding-top: var(--modular-size-n2);
+}
+
+.pt-n3 {
+  padding-top: var(--modular-size-n3);
+}
+
+.pt-n4 {
+  padding-top: var(--modular-size-n4);
+}
+
+/* Padding Left */
+
+.pl-l0 {
+  padding-left: var(--modular-size-l0);
+}
+
+.pl-l1 {
+  padding-left: var(--modular-size-l1);
+}
+
+.pl-l2 {
+  padding-left: var(--modular-size-l2);
+}
+
+.pl-l3 {
+  padding-left: var(--modular-size-l3);
+}
+
+.pl-l4 {
+  padding-left: var(--modular-size-l4);
+}
+
+.pl-l5 {
+  padding-left: var(--modular-size-l5);
+}
+
+.pl-l6 {
+  padding-left: var(--modular-size-l6);
+}
+
+.pl-l7 {
+  padding-left: var(--modular-size-l7);
+}
+
+.pl-l8 {
+  padding-left: var(--modular-size-l8);
+}
+
+.pl-l9 {
+  padding-left: var(--modular-size-l9);
+}
+
+.pl-l10 {
+  padding-left: var(--modular-size-l10);
+}
+
+.pl-n1 {
+  padding-left: var(--modular-size-n1);
+}
+
+.pl-n2 {
+  padding-left: var(--modular-size-n2);
+}
+
+.pl-n3 {
+  padding-left: var(--modular-size-n3);
+}
+
+.pl-n4 {
+  padding-left: var(--modular-size-n4);
+}
+
+/* Padding Right */
+
+.pr-l0 {
+  padding-right: var(--modular-size-l0);
+}
+
+.pr-l1 {
+  padding-right: var(--modular-size-l1);
+}
+
+.pr-l2 {
+  padding-right: var(--modular-size-l2);
+}
+
+.pr-l3 {
+  padding-right: var(--modular-size-l3);
+}
+
+.pr-l4 {
+  padding-right: var(--modular-size-l4);
+}
+
+.pr-l5 {
+  padding-right: var(--modular-size-l5);
+}
+
+.pr-l6 {
+  padding-right: var(--modular-size-l6);
+}
+
+.pr-l7 {
+  padding-right: var(--modular-size-l7);
+}
+
+.pr-l8 {
+  padding-right: var(--modular-size-l8);
+}
+
+.pr-l9 {
+  padding-right: var(--modular-size-l9);
+}
+
+.pr-l10 {
+  padding-right: var(--modular-size-l10);
+}
+
+.pr-n1 {
+  padding-right: var(--modular-size-n1);
+}
+
+.pr-n2 {
+  padding-right: var(--modular-size-n2);
+}
+
+.pr-n3 {
+  padding-right: var(--modular-size-n3);
+}
+
+.pr-n4 {
+  padding-right: var(--modular-size-n4);
+}
+
+/* Padding Bottom */
+
+.pb-l0 {
+  padding-bottom: var(--modular-size-l0);
+}
+
+.pb-l1 {
+  padding-bottom: var(--modular-size-l1);
+}
+
+.pb-l2 {
+  padding-bottom: var(--modular-size-l2);
+}
+
+.pb-l3 {
+  padding-bottom: var(--modular-size-l3);
+}
+
+.pb-l4 {
+  padding-bottom: var(--modular-size-l4);
+}
+
+.pb-l5 {
+  padding-bottom: var(--modular-size-l5);
+}
+
+.pb-l6 {
+  padding-bottom: var(--modular-size-l6);
+}
+
+.pb-l7 {
+  padding-bottom: var(--modular-size-l7);
+}
+
+.pb-l8 {
+  padding-bottom: var(--modular-size-l8);
+}
+
+.pb-l9 {
+  padding-bottom: var(--modular-size-l9);
+}
+
+.pb-l10 {
+  padding-bottom: var(--modular-size-l10);
+}
+
+.pb-n1 {
+  padding-bottom: var(--modular-size-n1);
+}
+
+.pb-n2 {
+  padding-bottom: var(--modular-size-n2);
+}
+
+.pb-n3 {
+  padding-bottom: var(--modular-size-n3);
+}
+
+.pb-n4 {
+  padding-bottom: var(--modular-size-n4);
+}
+
+/*# sourceMappingURL=padding-utilities.css.map */

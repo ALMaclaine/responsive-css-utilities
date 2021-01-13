@@ -1,0 +1,679 @@
+/* Percent Widths */
+
+.w-p5 {
+  width: 5%;
+}
+
+.w-p10 {
+  width: 10%;
+}
+
+.w-p15 {
+  width: 15%;
+}
+
+.w-p20 {
+  width: 20%;
+}
+
+.w-p25 {
+  width: 25%;
+}
+
+.w-p30 {
+  width: 30%;
+}
+
+.w-p35 {
+  width: 35%;
+}
+
+.w-p40 {
+  width: 40%;
+}
+
+.w-p45 {
+  width: 45%;
+}
+
+.w-p50 {
+  width: 50%;
+}
+
+.w-p55 {
+  width: 55%;
+}
+
+.w-p60 {
+  width: 60%;
+}
+
+.w-p65 {
+  width: 65%;
+}
+
+.w-p70 {
+  width: 70%;
+}
+
+.w-p75 {
+  width: 75%;
+}
+
+.w-p80 {
+  width: 80%;
+}
+
+.w-p85 {
+  width: 85%;
+}
+
+.w-p90 {
+  width: 90%;
+}
+
+.w-p95 {
+  width: 95%;
+}
+
+.w-p100 {
+  width: 100%;
+}
+
+/* Percent max-widths */
+
+.w-max-p5 {
+  max-width: 5%;
+}
+
+.w-max-p10 {
+  max-width: 10%;
+}
+
+.w-max-p15 {
+  max-width: 15%;
+}
+
+.w-max-p20 {
+  max-width: 20%;
+}
+
+.w-max-p25 {
+  max-width: 25%;
+}
+
+.w-max-p30 {
+  max-width: 30%;
+}
+
+.w-max-p35 {
+  max-width: 35%;
+}
+
+.w-max-p40 {
+  max-width: 40%;
+}
+
+.w-max-p45 {
+  max-width: 45%;
+}
+
+.w-max-p50 {
+  max-width: 50%;
+}
+
+.w-max-p55 {
+  max-width: 55%;
+}
+
+.w-max-p60 {
+  max-width: 60%;
+}
+
+.w-max-p65 {
+  max-width: 65%;
+}
+
+.w-max-p70 {
+  max-width: 70%;
+}
+
+.w-max-p75 {
+  max-width: 75%;
+}
+
+.w-max-p80 {
+  max-width: 80%;
+}
+
+.w-max-p85 {
+  max-width: 85%;
+}
+
+.w-max-p90 {
+  max-width: 90%;
+}
+
+.w-max-p95 {
+  max-width: 95%;
+}
+
+.w-max-p100 {
+  max-width: 100%;
+}
+
+/* Percent min-widths */
+
+.w-min-p5 {
+  min-width: 5%;
+}
+
+.w-min-p10 {
+  min-width: 10%;
+}
+
+.w-min-p15 {
+  min-width: 15%;
+}
+
+.w-min-p20 {
+  min-width: 20%;
+}
+
+.w-min-p25 {
+  min-width: 25%;
+}
+
+.w-min-p30 {
+  min-width: 30%;
+}
+
+.w-min-p35 {
+  min-width: 35%;
+}
+
+.w-min-p40 {
+  min-width: 40%;
+}
+
+.w-min-p45 {
+  min-width: 45%;
+}
+
+.w-min-p50 {
+  min-width: 50%;
+}
+
+.w-min-p55 {
+  min-width: 55%;
+}
+
+.w-min-p60 {
+  min-width: 60%;
+}
+
+.w-min-p65 {
+  min-width: 65%;
+}
+
+.w-min-p70 {
+  min-width: 70%;
+}
+
+.w-min-p75 {
+  min-width: 75%;
+}
+
+.w-min-p80 {
+  min-width: 80%;
+}
+
+.w-min-p85 {
+  min-width: 85%;
+}
+
+.w-min-p90 {
+  min-width: 90%;
+}
+
+.w-min-p95 {
+  min-width: 95%;
+}
+
+.w-min-p100 {
+  min-width: 100%;
+}
+
+/* vw widths */
+
+.w-v5 {
+  width: 5vw;
+}
+
+.w-v10 {
+  width: 10vw;
+}
+
+.w-v15 {
+  width: 15vw;
+}
+
+.w-v20 {
+  width: 20vw;
+}
+
+.w-v25 {
+  width: 25vw;
+}
+
+.w-v30 {
+  width: 30vw;
+}
+
+.w-v35 {
+  width: 35vw;
+}
+
+.w-v40 {
+  width: 40vw;
+}
+
+.w-v45 {
+  width: 45vw;
+}
+
+.w-v50 {
+  width: 50vw;
+}
+
+.w-v55 {
+  width: 55vw;
+}
+
+.w-v60 {
+  width: 60vw;
+}
+
+.w-v65 {
+  width: 65vw;
+}
+
+.w-v70 {
+  width: 70vw;
+}
+
+.w-v75 {
+  width: 75vw;
+}
+
+.w-v80 {
+  width: 80vw;
+}
+
+.w-v85 {
+  width: 85vw;
+}
+
+.w-v90 {
+  width: 90vw;
+}
+
+.w-v95 {
+  width: 95vw;
+}
+
+.w-v100 {
+  width: 100vw;
+}
+
+/* vw max-widths */
+
+.w-max-v5 {
+  max-width: 5vw;
+}
+
+.w-max-v10 {
+  max-width: 10vw;
+}
+
+.w-max-v15 {
+  max-width: 15vw;
+}
+
+.w-max-v20 {
+  max-width: 20vw;
+}
+
+.w-max-v25 {
+  max-width: 25vw;
+}
+
+.w-max-v30 {
+  max-width: 30vw;
+}
+
+.w-max-v35 {
+  max-width: 35vw;
+}
+
+.w-max-v40 {
+  max-width: 40vw;
+}
+
+.w-max-v45 {
+  max-width: 45vw;
+}
+
+.w-max-v50 {
+  max-width: 50vw;
+}
+
+.w-max-v55 {
+  max-width: 55vw;
+}
+
+.w-max-v60 {
+  max-width: 60vw;
+}
+
+.w-max-v65 {
+  max-width: 65vw;
+}
+
+.w-max-v70 {
+  max-width: 70vw;
+}
+
+.w-max-v75 {
+  max-width: 75vw;
+}
+
+.w-max-v80 {
+  max-width: 80vw;
+}
+
+.w-max-v85 {
+  max-width: 85vw;
+}
+
+.w-max-v90 {
+  max-width: 90vw;
+}
+
+.w-max-v95 {
+  max-width: 95vw;
+}
+
+.w-max-v100 {
+  max-width: 100vw;
+}
+
+/* vw min-widths */
+
+.w-min-v5 {
+  min-width: 5vw;
+}
+
+.w-min-v10 {
+  min-width: 10vw;
+}
+
+.w-min-v15 {
+  min-width: 15vw;
+}
+
+.w-min-v20 {
+  min-width: 20vw;
+}
+
+.w-min-v25 {
+  min-width: 25vw;
+}
+
+.w-min-v30 {
+  min-width: 30vw;
+}
+
+.w-min-v35 {
+  min-width: 35vw;
+}
+
+.w-min-v40 {
+  min-width: 40vw;
+}
+
+.w-min-v45 {
+  min-width: 45vw;
+}
+
+.w-min-v50 {
+  min-width: 50vw;
+}
+
+.w-min-v55 {
+  min-width: 55vw;
+}
+
+.w-min-v60 {
+  min-width: 60vw;
+}
+
+.w-min-v65 {
+  min-width: 65vw;
+}
+
+.w-min-v70 {
+  min-width: 70vw;
+}
+
+.w-min-v75 {
+  min-width: 75vw;
+}
+
+.w-min-v80 {
+  min-width: 80vw;
+}
+
+.w-min-v85 {
+  min-width: 85vw;
+}
+
+.w-min-v90 {
+  min-width: 90vw;
+}
+
+.w-min-v95 {
+  min-width: 95vw;
+}
+
+.w-min-v100 {
+  min-width: 100vw;
+}
+
+/* responsive widths */
+
+.w-l0 {
+  width: var(--modular-break-pt-l0);
+}
+
+.w-l1 {
+  width: var(--modular-break-pt-l1);
+}
+
+.w-l2 {
+  width: var(--modular-break-pt-l2);
+}
+
+.w-l3 {
+  width: var(--modular-break-pt-l3);
+}
+
+.w-l4 {
+  width: var(--modular-break-pt-l4);
+}
+
+.w-l5 {
+  width: var(--modular-break-pt-l5);
+}
+
+.w-l6 {
+  width: var(--modular-break-pt-l6);
+}
+
+.w-l7 {
+  width: var(--modular-break-pt-l7);
+}
+
+.w-l8 {
+  width: var(--modular-break-pt-l8);
+}
+
+.w-l9 {
+  width: var(--modular-break-pt-l9);
+}
+
+.w-l10 {
+  width: var(--modular-break-pt-l10);
+}
+
+.w-n1 {
+  width: var(--modular-break-pt-n1);
+}
+
+.w-n2 {
+  width: var(--modular-break-pt-n2);
+}
+
+.w-n3 {
+  width: var(--modular-break-pt-n3);
+}
+
+.w-n4 {
+  width: var(--modular-break-pt-n4);
+}
+
+/* responsive max-widths */
+
+.w-max-l0 {
+  max-width: var(--modular-break-pt-l0);
+}
+
+.w-max-l1 {
+  max-width: var(--modular-break-pt-l1);
+}
+
+.w-max-l2 {
+  max-width: var(--modular-break-pt-l2);
+}
+
+.w-max-l3 {
+  max-width: var(--modular-break-pt-l3);
+}
+
+.w-max-l4 {
+  max-width: var(--modular-break-pt-l4);
+}
+
+.w-max-l5 {
+  max-width: var(--modular-break-pt-l5);
+}
+
+.w-max-l6 {
+  max-width: var(--modular-break-pt-l6);
+}
+
+.w-max-l7 {
+  max-width: var(--modular-break-pt-l7);
+}
+
+.w-max-l8 {
+  max-width: var(--modular-break-pt-l8);
+}
+
+.w-max-l9 {
+  max-width: var(--modular-break-pt-l9);
+}
+
+.w-max-l10 {
+  max-width: var(--modular-break-pt-l10);
+}
+
+.w-max-n1 {
+  max-width: var(--modular-break-pt-n1);
+}
+
+.w-max-n2 {
+  max-width: var(--modular-break-pt-n2);
+}
+
+.w-max-n3 {
+  max-width: var(--modular-break-pt-n3);
+}
+
+.w-max-n4 {
+  max-width: var(--modular-break-pt-n4);
+}
+
+/* responsive min-widths */
+
+.w-min-l0 {
+  min-width: var(--modular-break-pt-l0);
+}
+
+.w-min-l1 {
+  min-width: var(--modular-break-pt-l1);
+}
+
+.w-min-l2 {
+  min-width: var(--modular-break-pt-l2);
+}
+
+.w-min-l3 {
+  min-width: var(--modular-break-pt-l3);
+}
+
+.w-min-l4 {
+  min-width: var(--modular-break-pt-l4);
+}
+
+.w-min-l5 {
+  min-width: var(--modular-break-pt-l5);
+}
+
+.w-min-l6 {
+  min-width: var(--modular-break-pt-l6);
+}
+
+.w-min-l7 {
+  min-width: var(--modular-break-pt-l7);
+}
+
+.w-min-l8 {
+  min-width: var(--modular-break-pt-l8);
+}
+
+.w-min-l9 {
+  min-width: var(--modular-break-pt-l9);
+}
+
+.w-min-l10 {
+  min-width: var(--modular-break-pt-l10);
+}
+
+.w-min-n1 {
+  min-width: var(--modular-break-pt-n1);
+}
+
+.w-min-n2 {
+  min-width: var(--modular-break-pt-n2);
+}
+
+.w-min-n3 {
+  min-width: var(--modular-break-pt-n3);
+}
+
+.w-min-n4 {
+  min-width: var(--modular-break-pt-n4);
+}
+
+/*# sourceMappingURL=width-utilities.css.map */
