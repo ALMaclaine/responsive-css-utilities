@@ -5,7 +5,7 @@ To use this package effectively you'll want to pair it with the following librar
 ## Packages
 
 - musical-ratios
-- css-custom-properties-
+- css-custom-properties
 - rhythmic-breakpoints
 - rhythmic-scale
 - empxrem
