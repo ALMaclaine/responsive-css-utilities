@@ -5,4 +5,41 @@
   user-select: none;
 }
 
+/* Display Styles */
+
+.inline {
+  display: inline;
+}
+
+.block {
+  display: block;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+/* Position Styles */
+
+.static {
+  position: static;
+}
+
+.relative {
+  position: relative;
+}
+
+.fixed {
+  position: fixed;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+}
+
 /*# sourceMappingURL=general-utilities.css.map */
