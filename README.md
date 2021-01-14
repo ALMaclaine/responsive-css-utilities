@@ -39,7 +39,7 @@ function handleBPChange() {
         cssVars[`modular-size-${size}`] = scaledStyles.size;
         cssVars[`modular-line-height-${size}`] = scaledStyles.lineHeight;
     }
-    for (let i = 0; i <= 6; i++) {
+    for (let i = 0; i <= 10; i++) {
         const scaledStyles = rhythmicScale.scaledStyles(ratio, i, .9);
         cssVars[`modular-break-pt-l${i}`] = ensureNotPxRem(mediaManager.shiftBreakpoint(mediaManager.active, i), baseFont);
         cssVars[`modular-size-l${i}`] = scaledStyles.size;
