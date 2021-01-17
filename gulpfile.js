@@ -1,6 +1,15 @@
 const gulp = require('gulp');
 const prettier = require('gulp-prettier');
 const rename = require("gulp-rename");
+const postcssFunctions = require('postcss-functions');
+
+function darken(value, frac) {
+    return [1,2,3,4];
+}
+
+const pcssFunctions = postcssFunctions({
+    functions: { darken }
+});
 
 const css = async () => {
     const postcss = require('gulp-postcss')
@@ -8,7 +17,7 @@ const css = async () => {
 
     return gulp.src('src/*.pcss')
         .pipe(sourcemaps.init())
-        .pipe(postcss([require('precss'), require('autoprefixer'), require('postcss-for')]))
+        .pipe(postcss([require('precss'), require('autoprefixer'), require('postcss-for'), pcssFunctions, require('postcss-each')]))
         .pipe(prettier({ singleQuote: true }))
         .pipe(rename(function (path) {
             // Updates the object in-place
