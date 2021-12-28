@@ -1,1 +1,0 @@
-{"version":3,"sources":["overflow-utilities.pcss"],"names":[],"mappings":"AAAA;IACI,cAAc;AAClB;;AAEA;IACI,gBAAgB;AACpB;;AAEA;IACI,gBAAgB;AACpB","file":"overflow-utilities.css","sourcesContent":[".of-auto {\n    overflow: auto;\n}\n\n.of-scroll {\n    overflow: scroll;\n}\n\n.of-hidden {\n    overflow: hidden;\n}\n"]}
